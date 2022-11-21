@@ -32,7 +32,7 @@ For more introduction details, see [Overview docs](./docs/README.md)
 
 - **Base on OpenKruise**
 
-  Triton use [OpenKruise](https://openkruise.io/en-us/docs/what_is_openkruise.html) as workloads which have more powerful capabilities.
+  Triton use [OpenKruise](https://openkruise.io/) as workloads which have more powerful capabilities.
 
 - **...**
 
